@@ -15,7 +15,7 @@ Node.js ve npm'in yüklenmiş olması gerekmektedir. Eğer bilgisayarınızda ku
 ## Kurulum
 1.Projeyi klonlayın veya indirin:
 ```bash
-git clone [[repo-linkiniz](https://github.com/idilTugba/Advance_Filter_4Products.git)]
+git clone https://github.com/idilTugba/Advance_Filter_4Products.git
 ```
 2.Proje dizinine gidin:
 ```bash
