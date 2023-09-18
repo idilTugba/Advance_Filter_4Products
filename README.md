@@ -6,6 +6,9 @@ Kategori Filtrelemesi: Kullanıcılar mevcut kategorilere göre ürünleri filtr
 Fiyat Aralığı Filtrelemesi: Belirli bir fiyat aralığı seçerek ürünleri filtreleme.
 Arama Çubuğu: Özel bir arama çubuğu kullanarak ürünleri anahtar kelimeye göre filtreleme.
 
+## Kullanılan Teknolojiler
+TypeScript, Redux, React, NextJS, MaterailUI, Tailwind, Eslint
+
 ## Başlangıç
 Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
 
